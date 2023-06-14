@@ -1,3 +1,3 @@
 # blog
-It's just a simple blog application where the author can post a blog, and the users can view and comment on the post.
+This is a straightforward blog application that enables authors to create and publish their blog posts while allowing users to explore and engage by viewing and commenting on the posts.
 
